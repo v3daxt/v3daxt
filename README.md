@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Application Penetration Testing!
 - 📫 How to reach https://www.linkedin.com/in/vedantshinde15/
 
-<script src="https://tryhackme.com/badge/251031"></script>
 
 <!---
 v3daxt/v3daxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
